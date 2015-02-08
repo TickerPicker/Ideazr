@@ -1,0 +1,14 @@
+68deff,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/hello-world,1423410577,
+7b7c91,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform,1423411102,
+ae754e,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/5,1423411343,017433
+017433,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/5,1423411343,
+c2d5ca,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/advert/5,1423411358,e7a27d
+e7a27d,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/advert/5,1423411358,
+32d4a4,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/advert/5,1423411379,
+59abf3,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/advert/9,1423411385,
+1a5b3f,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/advert/9,1423411805,
+8f5def,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/advert/9,1423412016,
+c36dfd,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/,1423412021,
+76bbbb,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/,1423412060,
+583bf5,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/,1423412072,4c6693
+4c6693,::1,GET,http://localhost:8888/tutorial/web/app_dev.php/platform/,1423412072,
